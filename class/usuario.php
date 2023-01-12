@@ -125,6 +125,12 @@ class Usuario {
 
     }
 
+    public function delete(){
+
+        
+
+    }
+
     public function __construct($login = "", $password = ""){
 
         $this->setDeslogin($login);
